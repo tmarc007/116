@@ -1,0 +1,34 @@
+/* About Section */
+.about-section {
+    padding: 2rem;
+}
+
+.about-image-cantainer {
+    width: 30%;
+    height: 100%;
+}
+
+.about-image-cantainer img{
+    /* width: 60%; */
+    height: 50rem;
+    width: 100%;
+    object-fit: cover;
+    object-position: center 50%;
+
+}
+
+.about-description-container {
+    width: 70%;
+}
+
+.about-description-container p {
+    margin: 2rem 0px;
+    width: 80%;
+}
+
+.label-list{
+    width: 70%;
+    flex-wrap: wrap;
+    gap: 1rem;
+    padding: 2rem;
+}
