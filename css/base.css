@@ -68,7 +68,7 @@ p {
     font: 1.1rem;
 }
 
-.label.text {
+.label-text {
     color: var(--background-color);
     background-color: var(--primary-color-100);
     text-transform: uppercase;

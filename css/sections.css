@@ -3,17 +3,17 @@
     padding: 2rem;
 }
 
-.about-image-cantainer {
+.about-image-container {
     width: 30%;
     height: 100%;
 }
 
-.about-image-cantainer img{
-    /* width: 60%; */
-    height: 50rem;
+.about-image-container img{
+    width: 60%;
+    /* height: 100rem;
     width: 100%;
     object-fit: cover;
-    object-position: center 50%;
+    object-position: center 10%; */
 
 }
 
